@@ -1,5 +1,7 @@
 # Worn proposal
 
+written in collaboration with [@mt5135](https://github.com/mt5135)
+
 ## What and Why
 
 Worn is a digital wardrobe tracker that lets users catalog their clothing and log wears, calculating a real cost-per-wear for each item.
